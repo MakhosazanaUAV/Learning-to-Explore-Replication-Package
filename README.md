@@ -57,4 +57,4 @@ If you use this replication package, please cite the associated review paper.
 
 ## Contact
 
-For questions regarding this replication package, please contact the corresponding author.
+For questions regarding this replication package, please contact the corresponding author,  Makhosazana Moyo at makhosmoyo@gmail.com.
